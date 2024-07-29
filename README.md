@@ -1,7 +1,7 @@
 <h1>Active Directory Home Lab</h1>
 
 <h2>Description</h2>
-
+This project's goal is to use Oracle VirtualBox to create two virtual machines. One will be a domain controller using Windows Server 2019. The other will be a client running Windows 10 Enterprise. I will set up a domain with both machines, set up Active Directory, as well as use the domain controller as a DHCP server and DNS server. I will also run a script to create several hundred users for our domain and we will log into the client with one of these users.
 <br />
 
 
