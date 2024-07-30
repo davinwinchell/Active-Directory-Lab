@@ -79,11 +79,11 @@ Install Windows 10 Enterprise on client VM:  <br/>
 <br />
  <br />
 Rename client PC and join domain:  <br/>
-<img src="" height="80%" width="80%"/>
+<img src="https://i.imgur.com/qJZe8rJ.png" height="80%" width="80%"/>
 <br />
  <br />
 Log into client PC using one of the newly created users:  <br/>
-<img src="" height="80%" width="80%"/>
+<img src="https://i.imgur.com/MHdMGKS.png" height="80%" width="80%"/>
 <br />
 </p>
 
